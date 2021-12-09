@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Shadows+Into+Light&display=swap');
+* {
+  box-sizing: border-box;
+  margin: 5px;
+  padding: 0;
+  background-color: #facd9e;
+}
+h1 {
+  font-family: "Permanent Marker", cursive, helvetica;
+  color: #36454F;
+  margin: 40px;
+}
+img {
+  width: 30vw;
+  /* border: 2px solid #ffa74e; */
+}
+figcaption {
+    font-family: "Permanent Marker";
+    font-size: 20px;
+    color: #36454F;
+}
+.container1 {
+    display: flex;
+    flex-direction: row;
+		flex-flow: row wrap;
+    margin: 10px; 
+} 
+
+.box1{
+  flex: 1;
+  order: 1;
+  margin: 7px;
+  width: 30vw;
+
+}
+.box2{
+  flex: 1;
+  order: 7;
+  margin: 7px;
+  width: 30vw;
+
+
+}
+.box3{
+  flex: 1;
+  order: 14;
+  margin: 7px;
+  width: 30vw;
+
+}
+.box4{
+  flex: 1;
+  order: 15;
+  margin: 7px;
+  width: 30vw;
+
+}
+.box5{
+  flex: 1;
+  order: 13;
+  margin: 7px;
+  width: 30vw;
+
+}
+.box6{
+  flex: 1;
+  order: 10;
+  margin: 7px;
+  width: 30vw;
+
+}
+.box7{
+  flex: 1;
+  order: 9;
+  margin: 7px;
+  width: 30vw;
+
+}
+.box8{
+  flex: 1;
+  order: 12;
+  margin: 7px;
+  width: 30vw;
+
+}
+.box9{
+  flex: 1;
+  order: 20;
+  margin: 7px;
+  width: 30vw;
+
+}
+.box10{
+  flex: 1;
+  order: 11;
+  margin: 7px;
+  width: 30vw;
+}
+.box12{
+  flex: 1;
+  order: 8;
+  margin: 7px;
+  width: 30vw;
+
+}
+.box13{
+  flex: 1;
+  order: 16;
+  margin: 7px;
+  width: 30vw;
+
+}
+.box14{
+  flex: 1;
+  order: 17;
+  margin: 7px;
+  width: 30vw;
+
+}
+.box15{
+  flex: 1;
+  order: 12;
+  margin: 7px;
+  width: 30vw;
+
+}
+.box16{
+  flex: 1;
+  order: 6;
+  margin: 7px;
+  width: 30vw;
+
+}
+.box17{
+  flex: 1;
+  order: 2;
+  margin: 7px;
+  width: 30vw;
+
+}
+.box18{
+  flex: 1;
+  order: 3;
+  margin: 7px;
+  width: 30vw;
+
+}
+.box19{
+  flex: 1;
+  order: 4;
+  margin: 7px;
+  width: 30vw;
+
+}
+.box20{
+  flex: 1;
+  order: 5;
+  margin: 7px;
+  width: 30vw;
+}
+.box21{
+  flex: 1;
+  order: 21;
+  margin: 7px;
+  width: 30vw;
+}
